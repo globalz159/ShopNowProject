@@ -1,8 +1,5 @@
-<h1 align="center">
-  <img src=".github/logo.png" alt="ShopNow">
-</h1>
 
-## Tópicos 
+## READ-ME
 
 [Sobre a ShopNow](#sobre-a-shopnow)
 
@@ -12,41 +9,11 @@
 
 [Instalação e uso](#instalação-e-uso)
 
-[Licença](#licença)
-
 <br>
 
 ## Sobre a ShopNow
 
 ShopNow é um projeto de e-commerce desenvolvido durante o quinto semestre da unviersidade Presbiteriana Mackenzie. Ele aborda conceitos como MVC, controle de sessões, criptografia de senhas, envio de e-mails, upload de imagens, validações no back e front end, animações, e muito mais.
-
-<h3 align="center">Home</h3>
-<p align="center">
-  <img src=".github/home.png" alt="página principal">
-</p>
-
-<br>
-
-<h3 align="center">Carrinho de Compras</h3>
-<p align="center">
-  <img src=".github/cart.png" alt="carrinho de compras">
-</p>
-
-<br>
-
-<h3 align="center">Pesquisa de Produtos</h3>
-<p align="center">
-  <img src=".github/search.png" alt="pesquisa de produtos">
-</p>
-
-<br>
-
-<h3 align="center">Página de Produto</h3>
-<p align="center">
-  <img src=".github/product.png" alt="página de produto">
-</p>
-
-<br>
 
 ## Funcionalidades
 
