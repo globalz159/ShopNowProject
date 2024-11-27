@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 ## READ-ME 
+=======
+## READ-ME
+>>>>>>> e05e3528958373c4e872fb7179de4078ef3ba0db
 
 [Sobre a ShopNow](#sobre-a-shopnow)
 
@@ -15,6 +19,23 @@
 
 ShopNow é um projeto de e-commerce desenvolvido durante o quinto semestre da unviersidade Presbiteriana Mackenzie. Ele aborda conceitos como MVC, controle de sessões, criptografia de senhas, envio de e-mails, upload de imagens, validações no back e front end, animações, e muito mais.
 
+<<<<<<< HEAD
+=======
+## Funcionalidades
+
+- [X] Cadastro de usuários.
+- [X] Criação de anúncios.
+- [X] Realização de pedidos.
+- [X] Carrinho de compras.
+- [X] Busca por produtos.
+- [X] Upload de imagens com Multer.
+- [X] Páginas dinâmicas com Nunjucks.
+- [X] Banco de dados PostgreSQL.
+- [X] Sistema de login e recuperação de senha.
+- [X] Animações com Lottie.
+
+<br>
+>>>>>>> e05e3528958373c4e872fb7179de4078ef3ba0db
 
 ## Tecnologias e Ferramentas
 
