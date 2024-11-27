@@ -1,9 +1,5 @@
 
-<<<<<<< HEAD
-## READ-ME 
-=======
 ## READ-ME
->>>>>>> e05e3528958373c4e872fb7179de4078ef3ba0db
 
 [Sobre a ShopNow](#sobre-a-shopnow)
 
@@ -13,13 +9,10 @@
 
 [Instalação e uso](#instalação-e-uso)
 
-<br>
-
 ## Sobre a ShopNow
 
 ShopNow é um projeto de e-commerce desenvolvido durante o quinto semestre da unviersidade Presbiteriana Mackenzie. Ele aborda conceitos como MVC, controle de sessões, criptografia de senhas, envio de e-mails, upload de imagens, validações no back e front end, animações, e muito mais.
 
-<<<<<<< HEAD
 =======
 ## Funcionalidades
 
@@ -35,7 +28,6 @@ ShopNow é um projeto de e-commerce desenvolvido durante o quinto semestre da un
 - [X] Animações com Lottie.
 
 <br>
->>>>>>> e05e3528958373c4e872fb7179de4078ef3ba0db
 
 ## Tecnologias e Ferramentas
 
